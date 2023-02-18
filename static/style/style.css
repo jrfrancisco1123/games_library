@@ -1,0 +1,71 @@
+.jumbotron, #container {
+    margin: 300px auto;
+    width: 1400px;
+}
+
+.display-2, .lead {
+    text-align: center;
+}
+
+.btn-lg {
+    width: 300px;
+}
+
+#main-btn {
+    text-decoration: none;
+}
+
+.add-form {
+    margin: 300px auto;
+    width: 800px;
+}
+
+.link-secondary {
+    display: flex;
+    justify-content: end;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+#add-btn {
+    display: flex;
+    /* color: darkgray; */
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#console-genre {
+    display: flex;
+    flex-direction: row;
+    width: 800px;
+}
+
+#selector {
+    width: 400px;
+}
+
+.table-hover tbody tr:hover td {
+    background-color:orange;
+}
+
+.btn-group {
+    margin-bottom: 10px;
+    background-color: beige;
+}
+
+#show-edit {
+    display: flex;
+    justify-content: space-around;
+}
+
+.delete {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
